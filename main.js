@@ -1,11 +1,11 @@
 function test(){
 
-  console.log("Hi Rana");
+  console.log("Hi Ra");
   
 }
 
 
 function anotherTestUpdate(){
 
-  console.log("");
+  console.log("test");
 }
